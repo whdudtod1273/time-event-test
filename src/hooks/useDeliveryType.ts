@@ -21,6 +21,7 @@ const useDeliveryType = ({ method }: Props) => {
 
   useEffect(() => {
     setDeliveryMent();
+    // eslint-disable-next-line react-hooks/exhaustive-deps
   }, []);
 
   const setDeliveryMent = () => {
