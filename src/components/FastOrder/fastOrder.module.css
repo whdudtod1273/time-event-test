@@ -1,0 +1,12 @@
+.fastOrderWrapper {
+  padding: 0 0 30px;
+}
+
+.fastOrderWrapper h2 {
+}
+.fastOrderWrapper p {
+  font-weight: 700;
+  font-size: 20px;
+  line-height: 30px;
+  letter-spacing: -0.4px;
+}
