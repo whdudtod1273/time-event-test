@@ -1,4 +1,4 @@
-import styles from "@/components/deliveryCard/deliveryCard.module.css";
+import styles from "@/components/DeliveryCard/DeliveryCard.module.css";
 
 import DeliveryCardItem from "./DeliveryCardItem";
 
