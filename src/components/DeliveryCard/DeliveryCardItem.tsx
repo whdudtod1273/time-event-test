@@ -1,4 +1,4 @@
-import styles from "@/components/deliveryCard/deliveryCard.module.css";
+import styles from "@/components/DeliveryCard/DeliveryCard.module.css";
 import useDeliveryType from "@/hooks/useDeliveryType";
 
 interface Props {
